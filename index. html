@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trabajo Online CO - Cambia el nombre aquí</title>
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #fff;
+    color: #1a1a1a;
+}
+
+.badge {
+    background: #fff3cd;
+    color: #d68a00;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.hero {
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.hero h1 {
+    font-size: 32px;
+    line-height: 1.1;
+    margin: 15px 0;
+}
+
+.hero span {
+    color: #0d3bd1;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.stats b {
+    font-size: 28px;
+    color: #0a369d;
+    display: block;
+}
+
+.card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.07);
+    text-align: center;
+}
+
+.btn-green {
+    background: #25d366;
+    color: #fff;
+    padding: 16px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 10;
+}
+
+.btn-center {
+    background: #25d366;
+    color: #fff;
+    padding: 16px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin: 20px auto;
+}
+
+.paso {
+    display: flex;
+    gap: 15px;
+    padding: 15px 20px;
+}
+
+.num {
+    background: #0a369d;
+    color: #fff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+
+</style>
+</head>
+<body>
+<div style="background:#f5f5f5;padding:8px 10px;font-size:12px;text-align:center">🇨🇴 🔥 Tendencia ¡Más de 25.000 colombianos interesados! Cupos limitados.</div>
+<div class="hero">
+    <h1>N E X I O</h1>
+<div class="badge">⭐ La Plataforma #1 en Colombia</div>
+<h1>Trabaja Desde Casa y Gana Dinero Diario</h1>
+<p>Tareas fáciles. Pagos seguros.<br><b style="color:#0d3bd1">¡Qué chimba! • Gana en pesos colombianos • Pago por Nequi y Bancolombia</b></p>
+</div>
+<div class="stats">
+<div><b>25.000+</b><small>Colombianos Felices</small></div>
+<div><b>$5.000M+</b><small>Pesos Pagados</small></div>
+<div><b>4.9/5</b><small>Calificación</small></div>
+<div><b>24/7</b><small>Soporte</small></div>
+</div>
+<h2 style="text-align:center">¿Por Qué Elegirnos?</h2>
+<div class="card"><h3>💵 Pago Diario en Pesos</h3><p>Te pagamos todos los días por Nequi, Bancolombia o transferencia.</p></div>
+<div class="card"><h3>📱 100% Móvil</h3><p>Solo necesitas tu celular.</p></div>
+<div class="card"><h3>⏰ Horario Flexible</h3><p>Trabaja a tu ritmo.</p></div>
+<h2 style="text-align:center">¿Cómo Empezar?</h2>
+<div class="paso"><div class="num">1</div><div><b>Regístrate</b><br>Dale clic al botón de WhatsApp.</div></div>
+<div class="paso"><div class="num">2</div><div><b>Recibe Tus Tareas</b><br>Te mandamos tareas sencillas por WhatsApp.</div></div>
+<div class="paso"><div class="num">3</div><div><b>Gana y Cobra</b><br>Completa y cobra el mismo día.</div></div>
+<div style="text-align:center;padding-bottom:80px">
+<h2>🚀 ¡Empieza Hoy Mismo!</h2>
+<a class="btn-center" href="https://wa.me/573000000000?text=Hola%20quiero%20info">💬 Quiero Empezar a Ganar</a>
+</div>
+<a class="btn-green" href="https://wa.me/573152053841?text=Hola%20quiero%20info">💬 Empieza a ganar </a>
+</body>
+</html>
